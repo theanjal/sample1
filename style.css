@@ -1,0 +1,39 @@
+h2 {
+    text-align: center;
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  form {
+    text-align: center;
+    border:1px solid black;
+  border-radius:5px;
+  padding: 10px;
+  margin-bottom: 50px;
+}
+  button{
+    background-color: #b0d4ee;
+  }
+  .card{
+      padding: 20px;
+  }
+  .uploadlabel{
+      font-size: small;
+      color: rgb(110, 108, 108);
+  }
+  .join-now{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  html{
+    scroll-behavior: smooth;
+  }
+  .Mentor
+  {
+      text-align: center;
+      background-color:rgb(166, 213, 231);
+      align-items: center;
+  }
